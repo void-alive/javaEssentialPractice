@@ -36,6 +36,19 @@ public class quiz6 {
         System.out.println("종료합니다...");
         break;
       }
+
+      /* if (str.equals("exit")){
+      System.out.println("종료합니다...");
+      break;
+      }
+      else{
+      for(int i=0;i<eng.length;i++{
+      if(str.equals(eng[i])){
+      System.out.println(kor[i]);
+      break;
+      }
+
+       */
     }
   }
 }
