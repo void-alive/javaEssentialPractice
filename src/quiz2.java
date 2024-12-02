@@ -10,7 +10,7 @@ public class quiz2 {
     intArray = new int[10];
 
 //    i번째 값에 정수값 스캔해서 넣기
-    for (int i = 0; i < 10; i++) {
+    for (int i = 0; i < intArray.length; i++) {
       intArray[i] = sc.nextInt();
 //      만약에 i번째 값을 3으로 나눈게 0이면 출력
       if (intArray[i] % 3 == 0) {
