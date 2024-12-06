@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d620128-06c0-4a4f-b045-d1e82c0968f7" name="변경" comment="5번 문제 내림차순" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;void-alive&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/void-alive/javaEssentialPractice.git&quot;,
+    &quot;accountId&quot;: &quot;afab6ea7-091e-4ff4-916e-5103efba6f54&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2pQAt5t6Sk91gV5IO7ZBJK3JRLT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/FULLSTACK503/java/book_3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.bonus1.executor": "Run",
+    "애플리케이션.bonus2.executor": "Run",
+    "애플리케이션.bonus2_1.executor": "Run",
+    "애플리케이션.bonus3.executor": "Run",
+    "애플리케이션.quiz1.executor": "Run",
+    "애플리케이션.quiz2.executor": "Run",
+    "애플리케이션.quiz3.executor": "Run",
+    "애플리케이션.quiz4.executor": "Run",
+    "애플리케이션.quiz5.executor": "Run",
+    "애플리케이션.quiz5_1.executor": "Run",
+    "애플리케이션.quiz6.executor": "Run",
+    "애플리케이션.quiz6_1.executor": "Run",
+    "애플리케이션.quiz7.executor": "Run",
+    "애플리케이션.quiz8.executor": "Run"
+  }
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.quiz5_1">
+    <configuration name="bonus2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bonus2" />
+      <module name="book_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bonus2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bonus2_1" />
+      <module name="book_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quiz5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz5" />
+      <module name="book_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quiz5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz5_1" />
+      <module name="book_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quiz6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz6_1" />
+      <module name="book_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.quiz5_1" />
+        <item itemvalue="애플리케이션.quiz5" />
+        <item itemvalue="애플리케이션.bonus2_1" />
+        <item itemvalue="애플리케이션.bonus2" />
+        <item itemvalue="애플리케이션.quiz6_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="5d620128-06c0-4a4f-b045-d1e82c0968f7" name="변경" comment="" />
+      <created>1732688137976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732688137976</updated>
+      <workItem from="1732688139015" duration="695000" />
+      <workItem from="1732750491657" duration="1501000" />
+      <workItem from="1732754211568" duration="9383000" />
+      <workItem from="1732769664911" duration="4700000" />
+      <workItem from="1732839943174" duration="645000" />
+      <workItem from="1732847817773" duration="13727000" />
+      <workItem from="1732863948835" duration="2063000" />
+      <workItem from="1733097921707" duration="245000" />
+      <workItem from="1733098210377" duration="2630000" />
+      <workItem from="1733101518057" duration="108000" />
+      <workItem from="1733101674740" duration="96000" />
+      <workItem from="1733101797902" duration="6000" />
+      <workItem from="1733115276090" duration="9227000" />
+      <workItem from="1733184149533" duration="2005000" />
+    </task>
+    <task id="LOCAL-00001" summary="자바 연습">
+      <option name="closed" value="true" />
+      <created>1733101591684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733101591684</updated>
+    </task>
+    <task id="LOCAL-00002" summary="자바 연습">
+      <option name="closed" value="true" />
+      <created>1733117276816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733117276816</updated>
+    </task>
+    <task id="LOCAL-00003" summary="보너스 파일 추가">
+      <option name="closed" value="true" />
+      <created>1733118611240</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733118611240</updated>
+    </task>
+    <task id="LOCAL-00004" summary="보너스 파일 추가">
+      <option name="closed" value="true" />
+      <created>1733120894882</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733120894882</updated>
+    </task>
+    <task id="LOCAL-00005" summary="보너스2번 문제 다르게 푸는 방법">
+      <option name="closed" value="true" />
+      <created>1733121459289</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733121459289</updated>
+    </task>
+    <task id="LOCAL-00006" summary="보너스2번 문제 주석 일부 추가">
+      <option name="closed" value="true" />
+      <created>1733121721674</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733121721674</updated>
+    </task>
+    <task id="LOCAL-00007" summary="5번 문제 내림차순">
+      <option name="closed" value="true" />
+      <created>1733186058837</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733186058837</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="자바 연습" />
+    <MESSAGE value="보너스 파일 추가" />
+    <MESSAGE value="보너스2번 문제 다르게 푸는 방법" />
+    <MESSAGE value="보너스2번 문제 주석 일부 추가" />
+    <MESSAGE value="5번 문제 내림차순" />
+    <option name="LAST_COMMIT_MESSAGE" value="5번 문제 내림차순" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bonus1.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
