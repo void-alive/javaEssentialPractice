@@ -31,5 +31,20 @@ public class Practice2 {
      *
      * System.out.println("나머지 출력");
      * */
+
+    /*
+     배열
+    * Phone phone1 [] = new Phone[2]
+    * for(int i=0;i<phone1.length;i++){
+    *  System.out.println("전화번호 입력");
+    *  name[i] = sc.nextLine();
+    *  tel[i] = sc.nextline();
+    *  phone[i] = new Phone1(name, tel);
+    * }
+    *
+    * for(int i=0;i<phone1.length;i++){
+    *  System.out.println(phone1[i].getName() + "의 번호 " + phone1[i].getTel();
+    * }
+    *  */
   }
 }
