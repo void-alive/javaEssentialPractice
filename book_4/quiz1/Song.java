@@ -1,3 +1,5 @@
+package quiz1;
+
 public class Song {
     String title;
 

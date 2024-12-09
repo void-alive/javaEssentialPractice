@@ -1,3 +1,5 @@
+package quiz1;
+
 public class Practice1Ex {
   public static void main(String[] args) {
     Song mySong = new Song("Nessun Dorma");

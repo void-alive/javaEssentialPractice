@@ -1,3 +1,5 @@
+import quiz2.Phone;
+
 import java.util.Scanner;
 
 public class Practice4 {

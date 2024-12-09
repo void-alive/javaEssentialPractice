@@ -1,3 +1,5 @@
+package quiz2;
+
 public class Phone {
   private String name;
   private String tel;
