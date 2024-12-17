@@ -116,6 +116,7 @@ public class MethodOverridingEx {
               System.out.println(shape.draw());
             }
           }
+          break;
       }
     }
   }
