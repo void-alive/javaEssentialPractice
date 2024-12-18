@@ -4,9 +4,7 @@ import java.util.Scanner;
 //인터페이스 StackInterface : 나중에 구현할것
 interface StackInterface {
   int length();
-
   String pop();
-
   boolean push(String ob);
 }
 

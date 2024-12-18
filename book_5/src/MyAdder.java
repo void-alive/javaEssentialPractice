@@ -4,6 +4,7 @@ interface AdderInterface {
   int add(int n);
 }
 
+//
 public class MyAdder implements AdderInterface {
   public int add(int x, int y) {
     return x + y;
